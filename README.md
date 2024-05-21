@@ -1,1 +1,2 @@
 # Text-Summarizer
+This work focuses on using the t5 model to text summarization, expanding on prior research efforts. The goal of our paper is to construct a summary of YouTube comments by utilizing the Validation Accuracy within the T5 model to obtain more accuracy.The T5 model is a Natural Language Processing technique that has the ability to simplify complex narratives into logical and consumable summaries
